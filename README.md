@@ -1,7 +1,6 @@
 # Gorgeous Themes for Zed
 
-Dark & light theme family for [Zed](https://zed.dev), inspired by JetBrains IDE, Xcode,
-and Claude color schemes, adapted and tuned for Zed (full v0.2.0 theme schema coverage,
+Dark & light theme family for [Zed](https://zed.dev), inspired by JetBrains IDE and Xcode color schemes, adapted and tuned for Zed (full v0.2.0 theme schema coverage,
 dark/soft variants per family).
 
 ## Themes
@@ -9,14 +8,6 @@ dark/soft variants per family).
 ### Gorgeous - Monokai Pro Light Sun
 
 <img src="screenshots/Gorgeous-Monokai_Pro_Light_Sun.png" alt="Gorgeous - Monokay Pro Light Sun" width="100%">
-
-### Gorgeous - Claude Light
-
-<img src="screenshots/Gorgeous-Claude_Light.png" alt="Gorgeous - Claude Light" width="100%">
-
-### Gorgeous - Claude Dark
-
-<img src="screenshots/Gorgeous-Claude_Dark.png" alt="Gorgeous - Claude Dark" width="100%">
 
 ### Gorgeous - Fleet Palenight
 
