@@ -4,4 +4,4 @@ version = "0.0.3"
 schema_version = 1
 authors = ["Johnny"]
 description = "Dark & light theme family inspired by JetBrains IDEs, Xcode, and Claude, adapted and optimized for Zed"
-repository = "https://github.com/Johnny0x38E/gorgeous-theme-for-zed"
+repository = "https://github.com/johnny0x38e/gorgeous-theme-for-zed"
