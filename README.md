@@ -7,7 +7,7 @@ dark/soft variants per family).
 
 ### Gorgeous - Monokai Pro Light Sun
 
-<img src="screenshots/Gorgeous-Monokai_Pro_Light_Sun.png" alt="Gorgeous - Monokay Pro Light Sun" width="100%">
+<img src="screenshots/Gorgeous-Monokai_Pro_Light_Sun.png" alt="Gorgeous - Monokai Pro Light Sun" width="100%">
 
 ### Gorgeous - Fleet Palenight
 
